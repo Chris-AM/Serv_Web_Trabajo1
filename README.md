@@ -45,3 +45,6 @@ La primera linea en el "body" tiene que ser su nombre con formato "h4"
 
 6) cree una función que genere la conversión a moneda chilena (valor del dólar 800) "función convertirDolar()"
 	
+
+  .
+  
