@@ -1,0 +1,17 @@
+div {
+    background-color: aliceblue;
+    margin-bottom: 2vh;
+}
+
+div a {
+    text-decoration: none;
+    margin-right: 2vh;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+table {
+    margin-left: 6vh;
+}
