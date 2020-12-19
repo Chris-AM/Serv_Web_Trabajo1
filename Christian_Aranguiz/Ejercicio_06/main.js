@@ -1,10 +1,11 @@
 let converirDolar = (pesoChileno, dolar) => {
-    pesoChileno = parseInt(prompt("Cuantos dolares desea cambiar a peso Chileno"));
+    pesoChileno = parseInt(prompt("Cuantos pesos desea cambiar a dolar"));
     dolar = 800;
-    return pesoChileno * dolar
+    conversion = (pesoChileno / dolar).toFixed(2);
+    return conversion;
 }
 
 
 
 
-document.write('Usted resibirá a cambio CLP' + converirDolar())
+document.write('Usted resibirá a cambio USD$' + converirDolar())
